@@ -1,0 +1,39 @@
+html{
+	position: relative;
+}
+
+.jumbotron{
+	background-image: url(78.jpeg);
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: o -100px;
+	color: white;
+}
+
+.jumbotron img{
+	width: 300px;
+	border: 5px solid white; 
+	margin-top: 50px;
+}
+
+.home{
+	padding-top: 50px;
+}
+
+.gambar{
+	width: 500px;
+	border-top: red;
+}
+
+
+
+.footer{
+	background-color: #20639b;
+	padding: 20px;
+}
+
+.footer .copy{
+	color: red;
+	text-align: center;
+	font-size: 15px;
+}
